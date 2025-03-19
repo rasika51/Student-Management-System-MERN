@@ -10,7 +10,7 @@ function IssueBook() {
 
   return (
     <div className="max-w-4xl mx-auto mt-10 p-6 bg-white shadow-lg rounded-lg">
-      <h2 className="text-left text-gray-800 text-2xl font-bold mb-5 ml-4">Add Student</h2>
+      <h2 className="text-center text-gray-800 text-2xl font-bold mb-5 ml-4">Add Student</h2>
 
       <div className="bg-gray-200 p-4 rounded-lg mb-5">
         <div className="grid grid-cols-2 gap-8">
