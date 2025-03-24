@@ -1,8 +1,14 @@
-# React + Vite
+full-stack web application built using the MERN stack (MongoDB, Express.js, React, Node.js) to efficiently manage student records. The system allows users to authenticate, add, update, delete, and view student details in a seamless and user-friendly interface
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features
+✅ User Authentication – Secure login and registration.
+✅ Add Students – Store new student details.
+✅ Update Students – Modify existing records.
+✅ Delete Students – Remove student records.
+✅ View Students – Display all student details in a structured format.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
+  Frontend: React.js
+  Backend: Node.js, Express.js
+  Database: MongoDB
+  Authentication: React clerk
